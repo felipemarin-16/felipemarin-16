@@ -1,11 +1,13 @@
 # Wilson Felipe Marin | AI/ML Engineer & Full-Stack Developer
 
 ## 👨‍💻 About Me
-Computer Science student at the University of Utah (Dean's List, graduating Dec 2026) specializing in AI/ML engineering, full-stack development, and performance-optimized AI systems. Experienced in deep learning, LLM inference optimization, computer vision, and building scalable ML pipelines from research to deployment.
+Computer Science student at the University of Utah (Dean's List, graduating Dec 2026) specializing in AI/ML engineering, 
+full-stack development, and performance-optimized AI systems. Experienced in deep learning, LLM inference optimization, 
+computer vision, and building scalable ML pipelines from research to deployment.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔍 FNDR — Privacy-First Local AI Assistant for macOS
 **Tech Stack:** Rust, Tauri, Metal, ONNX, Llama 3.2, Whisper, Apple Vision Framework
@@ -17,6 +19,19 @@ Computer Science student at the University of Utah (Dean's List, graduating Dec 
 - Implemented local meeting intelligence using Whisper-based transcription  
 
 **Impact:** Production macOS app delivering sub-second AI inference entirely on-device  
+
+---
+
+### 🎯 RoleReady — AI Mock Interview Coach
+**Tech Stack:** Next.js, TypeScript, React, Ollama LLMs, Web Speech API
+
+- Built a full-stack AI interview platform with adaptive question generation and real-time feedback  
+- Integrated local LLM (Ollama) for answer evaluation and personalized coaching  
+- Implemented voice-driven interview flow using browser speech recognition and synthesis  
+- Created a stateful interview engine tracking role context, skills coverage, and Q&A history  
+- Developed resume parsing and job description analysis for role-specific questions  
+
+**Impact:** Production-ready interview prep tool with structured feedback and progressive review system  
 
 ---
 
@@ -64,7 +79,7 @@ Computer Science student at the University of Utah (Dean's List, graduating Dec 
 
 ## 💼 Core Competencies
 - Production AI Systems  
-- Deep Learning (CNNs, Transformers)  
+- Deep Learning 
 - ML Engineering (end-to-end pipelines)  
 - Performance Optimization (low-latency inference)  
 - Full-Stack Development  
@@ -75,8 +90,7 @@ Computer Science student at the University of Utah (Dean's List, graduating Dec 
 ## 📫 Let's Connect
 - 📧 Email: felipe.marin.1697@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/wilsonmarin  
-- 🌐 Portfolio: https://yourportfolio.com  
-- 💻 GitHub: https://github.com/yourusername  
+- 🌐 Portfolio: https://https://felipemarin.vercel.app
 - 📍 Salt Lake City, UT  
 
 ---
