@@ -89,7 +89,7 @@ computer vision, and building scalable ML pipelines from research to deployment.
 
 ## 📫 Let's Connect
 - 📧 Email: felipe.marin.1697@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/wilsonmarin  
+- 💼 LinkedIn: https://www.linkedin.com/in/wilson-felipe-marin-107a9017b
 - 🌐 Portfolio: https://https://felipemarin.vercel.app
 - 📍 Salt Lake City, UT  
 
