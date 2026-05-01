@@ -22,14 +22,14 @@ computer vision, and building scalable ML pipelines from research to deployment.
 
 ---
 
-### 🎯 RoleReady — AI Mock Interview Coach
-**Tech Stack:** Next.js, TypeScript, React, Ollama LLMs, Web Speech API
+### 🎯 RoleConnect — AI Mock Interview Coach
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI / Groq, Google Cloud TTS
 
-- Built a full-stack AI interview platform with adaptive question generation and real-time feedback  
-- Integrated local LLM (Ollama) for answer evaluation and personalized coaching  
-- Implemented voice-driven interview flow using browser speech recognition and synthesis  
-- Created a stateful interview engine tracking role context, skills coverage, and Q&A history  
-- Developed resume parsing and job description analysis for role-specific questions  
+- Built an AI interview platform that generates role-specific sessions from resumes and job descriptions
+- Engineered a stateful LLM system for adaptive questions, follow-ups, and real-time feedback
+- Implemented multi-criteria answer scoring across relevance, specificity, confidence, and job fit
+- Integrated voice interaction using browser speech recognition and Google Cloud TTS
+- Designed dynamic interview flows using resume parsing and job context
 
 **Impact:** Production-ready interview prep tool with structured feedback and progressive review system  
 
