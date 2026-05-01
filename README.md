@@ -22,7 +22,7 @@ computer vision, and building scalable ML pipelines from research to deployment.
 
 ---
 
-### 🎯 RoleConnect — AI Mock Interview Coach
+### 🎯 ConnectRole — AI Mock Interview Coach
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI / Groq, Google Cloud TTS
 
 - Built an AI interview platform that generates role-specific sessions from resumes and job descriptions
